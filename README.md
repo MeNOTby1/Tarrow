@@ -18,7 +18,7 @@
 
 ## 🖼️ Ekran Görüntüsü
 
-![Tarrow Arayüzü](.github\Ekran_görüntüsü.png)
+![Tarrow Arayüzü](.github/Ekran_görüntüsü.png)
 
 ---
 
