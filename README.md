@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-v1.0.0--alpha-blue)](https://github.com/MeNOTby1/Tarrow/releases)
 
-<img src="Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
+<img src=".github\Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
 **Tarrow**, AutoHotkey ile geliştirilmiş hafif, taşınabilir ve özelleştirilebilir bir otomatik tıklama uygulamasıdır. `.exe` olarak derlenmiştir ve AutoHotkey kurulumu gerektirmez.
 
@@ -18,7 +18,7 @@
 
 ## 🖼️ Ekran Görüntüsü
 
-![Tarrow Arayüzü](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC.png)
+![Tarrow Arayüzü](.github\Ekran_görüntüsü.png)
 
 ---
 
