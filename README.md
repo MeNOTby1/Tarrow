@@ -31,7 +31,7 @@
 
 ## 🖥️ Nasıl Kullanılır?
 
-1. `Tarrow.exe` dosyasını indir.
+1. [`Tarrow.exe`](https://github.com/MeNOTby1/Tarrow/tags) dosyasını indir.
 2. **Bir klasör oluşturup uygulamayı onun içine koyun.**  
    Bu, ayarların düzgün şekilde kaydedilmesini ve uygulamanın daha stabil çalışmasını sağlar.
 3. `Tarrow.exe` üzerine sağ tıklayarak masaüstüne bir kısayol oluşturabilirsiniz.
