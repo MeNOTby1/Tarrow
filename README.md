@@ -31,6 +31,14 @@
 - Türkçe ve İngilizce dil seçeneği
 - Hafif yapısı ve sade arayüz
 
+## 📜 Bildirme Şablonları
+
+Sorun, öneri veya sorunuz varsa bu [`şablonları`](.github/ISSUE_TEMPLATE) kullanarak yazabilirsiniz.
+
+- [Sorun ‼️](.github/ISSUE_TEMPLATE/bug_report.md)
+- [Öneri 💡](.github/ISSUE_TEMPLATE/feature_request.md)
+- [Soru  🤔](.github/ISSUE_TEMPLATE/question.md)
+
 ## 🖥️ Nasıl Kullanılır?
 
 1. [`Tarrow.exe`](https://github.com/MeNOTby1/Tarrow/tags) dosyasını indir.
@@ -72,6 +80,17 @@ Ayarları değiştirdikten sonra “Kaydet” butonuna tıklayın. Yeni tuşlar 
 ### 🔹 AutoHotkey yüklü değil, yine de çalışır mı?
 Evet! Uygulama `.exe` olarak derlenmiştir ve AutoHotkey’e ihtiyaç duymaz.
 
+### 🔹 Bu bir hilemi?
+Teknik anlamda evet fakat hile için tasarlanmadı. Daha çok `Youtuber`'lar için yeteneği olmayanlara yapıldı.
+> (Benim gibi 😢)
+
+### 🔹 Banlanma / Kicklenme ihtimali varmı?
+Evet fakat ayarları düşürürseniz yada pro serverlara girerseniz banlanmazsınız.
+
+   - Örneğin
+```
+eu.minemen.club
+```
 ---
 
 ## ✍️ Geliştirici
