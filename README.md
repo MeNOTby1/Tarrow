@@ -6,6 +6,12 @@
 
 **Tarrow**, AutoHotkey ile geliştirilmiş hafif, taşınabilir ve özelleştirilebilir bir otomatik tıklama uygulamasıdır. `.exe` olarak derlenmiştir ve AutoHotkey kurulumu gerektirmez.
 
+## 📌 Sürüm Geçmişi
+
+| Sürüm       | Tarih          | Notlar                               |
+|-------------|----------------|------------------------------------|
+| v1.0.0 ALPHA | 24 Haziran 2025 | İlk alpha sürüm yayımlandı. Temel özellikler eklendi. |
+
 ---
 
 ## 🖼️ Ekran Görüntüsü
