@@ -1,16 +1,18 @@
 # Tarrow
 
-![Static Badge](https://img.shields.io/badge/Version%20v1.0.0-ALPHA-blue)
+[![Version](https://img.shields.io/badge/version-v1.0.0--alpha-blue)](https://github.com/MeNOTby1/Tarrow/releases)
 
 <img src="Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
 **Tarrow**, AutoHotkey ile geliştirilmiş hafif, taşınabilir ve özelleştirilebilir bir otomatik tıklama uygulamasıdır. `.exe` olarak derlenmiştir ve AutoHotkey kurulumu gerektirmez.
 
-## 📌 Sürüm Geçmişi
+## 📌 Sürüm Geçmişi 
 
 | Sürüm       | Tarih          | Notlar                               |
 |-------------|----------------|------------------------------------|
 | v1.0.0 ALPHA | 24 Haziran 2025 | İlk alpha sürüm yayımlandı. Temel özellikler eklendi. |
+
+>📜 [Sürüm geçmişini buradan okuyun](CHANGELOG.md)
 
 ---
 
@@ -34,7 +36,7 @@
 1. [`Tarrow.exe`](https://github.com/MeNOTby1/Tarrow/tags) dosyasını indir.
 2. **Bir klasör oluşturup uygulamayı onun içine koyun.**  
    Bu, ayarların düzgün şekilde kaydedilmesini ve uygulamanın daha stabil çalışmasını sağlar.
-3. `Tarrow.exe` üzerine sağ tıklayarak masaüstüne bir kısayol oluşturabilirsiniz.
+3. [`Tarrow.exe`](https://github.com/MeNOTby1/Tarrow/tags) üzerine sağ tıklayarak masaüstüne bir kısayol oluşturabilirsiniz.
 4. Çift tıklayarak çalıştırın.
 5. Sistem tepsisindeki simgeye sağ tıklayıp **Ayarlar**'ı açın.
 6. İstediğiniz ayarları yapıp "Kaydet" butonuna basın.
@@ -43,7 +45,7 @@
 
 ## 📌 Sürüm
 
-`v1.0.0 ALPHA`  
+[`v1.0.0 ALPHA`](https://github.com/MeNOTby1/Tarrow/tags) 
 Bu sürüm test aşamasındadır. Hatalar veya eksiklikler içerebilir.
 
 ## 🔒 Lisans
