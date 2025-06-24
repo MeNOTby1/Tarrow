@@ -1,5 +1,7 @@
 # Tarrow
 
+![Static Badge](https://img.shields.io/badge/Version%20v1.0.0-ALPHA-blue)
+
 <img src="Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
 **Tarrow**, AutoHotkey ile geliştirilmiş hafif, taşınabilir ve özelleştirilebilir bir otomatik tıklama uygulamasıdır. `.exe` olarak derlenmiştir ve AutoHotkey kurulumu gerektirmez.
