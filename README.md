@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="README.en.md">🇺🇸 English</a> |
+  <a href="https://github.com/MeNOTby1/Tarrow">🇹🇷 Türkçe</a>
+</p>
+
+
+
 # Tarrow
 
 [![Version](https://img.shields.io/badge/v1.0.1-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta)
