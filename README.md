@@ -1,6 +1,6 @@
 # Tarrow
 
-[![Version](https://img.shields.io/badge/version-v1.0.0--alpha-blue)](https://github.com/MeNOTby1/Tarrow/releases)
+[![Version](https://img.shields.io/badge/v1.0.1-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🖼️ Ekran Görüntüsü
+## 🖼️ Ekran Görüntüsü `v1.0.0 alpha`
 
 ![Tarrow Arayüzü](.github/Ekran_görüntüsü.png)
 
@@ -26,10 +26,10 @@
 
 - Sol ve sağ tıklama modu (bağımsız aç/kapa)
 - Tıklama sayısı ve gecikme süresi ayarlanabilir
-- Karanlık, aydınlık ve sistem teması desteği
 - Kısayol tuşları özelleştirilebilir (örnek: F6, F7)
-- Türkçe ve İngilizce dil seçeneği
 - Hafif yapısı ve sade arayüz
+- Yardım alanabilecek arayüz
+- Global hotkey özelliği
 
 ## 📜 Bildirme Şablonları
 
