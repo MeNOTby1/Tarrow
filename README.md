@@ -17,8 +17,8 @@
 
 | Sürüm       | Tarih          | Notlar                               |
 |-------------|----------------|------------------------------------|
-| v1.0.0 ALPHA | 24 Haziran 2025 | İlk alpha sürüm yayımlandı. Temel özellikler eklendi. |
-| v1.0.1 pre-BETA | 25 Haziran 2025 | Rahatsız edici hatalar fixlendi |
+| [v1.0.0 ALPHA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.0-alpha) | 24 Haziran 2025 | İlk alpha sürüm yayımlandı. Temel özellikler eklendi. |
+| [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | 25 Haziran 2025 | Rahatsız edici hatalar fixlendi |
 
 >📜 [Sürüm geçmişini buradan okuyun](CHANGELOG.md)
 
