@@ -87,12 +87,6 @@ Teknik anlamda evet fakat hile için tasarlanmadı. Daha çok `Youtuber`'lar iç
 ### 🔹 Banlanma / Kicklenme ihtimali varmı?
 Evet fakat ayarları düşürürseniz yada pro serverlara girerseniz banlanmazsınız.
 
-   - Örneğin
-```
-eu.minemen.club
-```
----
-
 ## ✍️ Geliştirici
 
 **MeNOTby1**  
