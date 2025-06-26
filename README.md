@@ -7,7 +7,7 @@
 
 # Tarrow
 
-[![Version](https://img.shields.io/badge/v1.0.1-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta)
+[![Version](https://img.shields.io/badge/v1.0.2-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-beta)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
@@ -19,6 +19,7 @@
 |-------------|----------------|------------------------------------|
 | [v1.0.0 ALPHA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.0-alpha) | 24 Haziran 2025 | İlk alpha sürüm yayımlandı. Temel özellikler eklendi. |
 | [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | 25 Haziran 2025 | Rahatsız edici hatalar fixlendi |
+| [v1.0.2 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA) | 26 Haziran 2025 | **Başlangıçta açılma** ayarı eklendi |
 
 >📜 [Sürüm geçmişini buradan okuyun](CHANGELOG.md)
 
@@ -58,11 +59,6 @@ Sorun, öneri veya sorunuz varsa bu [`şablonları`](.github/ISSUE_TEMPLATE) kul
 6. İstediğiniz ayarları yapıp "Kaydet" butonuna basın.
 
 > ⚠ **AutoHotkey kurulu olmasa da çalışır.** (Standalone `.exe`)
-
-## 📌 Sürüm
-
-[`v1.0.0 ALPHA`](https://github.com/MeNOTby1/Tarrow/tags) 
-Bu sürüm test aşamasındadır. Hatalar veya eksiklikler içerebilir.
 
 ## 🔒 Lisans
 
