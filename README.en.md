@@ -7,7 +7,7 @@
 
 # Tarrow
 
-[![Version](https://img.shields.io/badge/v1.0.1-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta)
+[![Version](https://img.shields.io/badge/v1.0.2-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow Icon" width="64">
 
@@ -18,6 +18,7 @@
 |-------------|----------------|------------------------------------|
 | [v1.0.0 ALPHA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.0-alpha) | June 24, 2025 | First alpha version released. Added core features. |
 | [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | June 25, 2025 | Fixed annoying bugs |
+| [v1.0.2 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA) | June 26, 2025 | Added **startup** setting |
 
 >📜 [Read version history here](CHANGELOG.md)
 
