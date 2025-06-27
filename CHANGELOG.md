@@ -22,6 +22,6 @@ Tarrow'un gelişim geçmişi burada listelenir. Bu dosya, her sürümde yapılan
 > Bunlar henüz gelmedi, plan aşamasında:
 
 - Bug giderme ✔
-- Daha fazla kullanılabilir özellik ekleme ❌
+- Daha fazla kullanılabilir özellik ekleme ✔
 - Daha fazla erişilebilirlik ekleme ❌
 - Yeni tıklama ayarı ❌
