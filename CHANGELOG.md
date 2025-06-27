@@ -23,5 +23,5 @@ Tarrow'un gelişim geçmişi burada listelenir. Bu dosya, her sürümde yapılan
 
 - Bug giderme ✔
 - Daha fazla kullanılabilir özellik ekleme ✔
-- Daha fazla erişilebilirlik ekleme ❌
-- Yeni tıklama ayarı ❌
+- Daha fazla erişilebilirlik ekleme ✔
+- Bildirimleri özelleştirme ❌
