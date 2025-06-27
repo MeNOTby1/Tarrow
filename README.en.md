@@ -7,7 +7,7 @@
 
 # Tarrow
 
-[![Version](https://img.shields.io/badge/v1.0.2-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA)
+[![Version](https://img.shields.io/badge/v1.0.3-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow Icon" width="64">
 
@@ -16,9 +16,10 @@
 
 | Version | Date | Notes |
 |-------------|----------------|------------------------------------|
-| [v1.0.0 ALPHA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.0-alpha) | June 24, 2025 | First alpha version released. Added core features. |
+| [v1.0.0 ALPHA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.0-alpha) | June 24, 2025 | First alpha version released. Added main features. |
 | [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | June 25, 2025 | Fixed annoying bugs |
 | [v1.0.2 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA) | June 26, 2025 | Added **startup** setting |
+| [v1.0.3 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA) | June 27, 2025 | English language feature brought back |
 
 >📜 [Read version history here](CHANGELOG.md)
 
@@ -89,9 +90,6 @@ Technically yes, but it wasn't designed to be a cheat. It was made for `Youtuber
 
 ### 🔹 Is there a chance of getting banned/kicked?
 Yes, but if you lower the settings or join the pro servers, you won't get banned.
-
-### 🔹 Why is there no english language
-Due to a bug, we have removed English language support for now. We will bring it back in future updates.
 
 ## ✍️ Developer
 
