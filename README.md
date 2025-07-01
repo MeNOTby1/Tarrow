@@ -7,7 +7,7 @@
 
 # Tarrow
 
-[![Version](https://img.shields.io/badge/v1.0.3-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA)
+[![Version](https://img.shields.io/badge/v1.0.4-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.4-pre-BETA)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow İkonu" width="64">
 
@@ -21,6 +21,7 @@
 | [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | 25 Haziran 2025 | Rahatsız edici hatalar fixlendi |
 | [v1.0.2 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA) | 26 Haziran 2025 | **Başlangıçta açılma** ayarı eklendi |
 | [v1.0.3 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA) | 27 Haziran 2025 | İngilizce dil özelliği geri getirildi |
+| [v1.0.4 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.4-pre-BETA) | 1 Temmuz 2025 | **Bildirimleri Aç / Kapa** ayarı eklendi |
 
 >📜 [Sürüm geçmişini buradan okuyun](CHANGELOG.md)
 
