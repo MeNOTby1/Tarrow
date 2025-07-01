@@ -19,9 +19,10 @@ Tarrow'un gelişim geçmişi burada listelenir. Bu dosya, her sürümde yapılan
 ---
 
 ## Gelecek İçin Planlananlar (📌 Taslak)
-> Bunlar henüz gelmedi, plan aşamasında:
 
 - Bug giderme ✔ > v1.0.1 pre-BETA
 - Daha fazla kullanılabilir özellik ekleme ✔ > v1.0.2 pre-BETA
-- Daha fazla erişilebilirlik ekleme ✔ > [v1.0.3 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA)
-- Bildirimleri özelleştirme ❌ > v1.0.4 pre-BETA
+- Daha fazla erişilebilirlik ekleme ✔ > v1.0.3 pre-BETA
+- Bildirimleri özelleştirme ✔ > [v1.0.4 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.4-pre-BETA)
+
+> Son sürüm olan `v1.1.0 Release`'e son rötuşlar yapılıyor...
