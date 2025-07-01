@@ -7,7 +7,7 @@
 
 # Tarrow
 
-[![Version](https://img.shields.io/badge/v1.0.3-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA)
+[![Version](https://img.shields.io/badge/v1.0.4-%20pre%20BETA-blue)](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.4-pre-BETA)
 
 <img src=".github\Bow_Pulling_1.png" alt="Tarrow Icon" width="64">
 
@@ -20,6 +20,7 @@
 | [v1.0.1 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.1-pre-beta) | June 25, 2025 | Fixed annoying bugs |
 | [v1.0.2 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.2-pre-BETA) | June 26, 2025 | Added **startup** setting |
 | [v1.0.3 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.3-pre-BETA) | June 27, 2025 | English language feature brought back |
+| [v1.0.4 pre-BETA](https://github.com/MeNOTby1/Tarrow/releases/tag/v1.0.4-pre-BETA) | July 1, 2025 | Added **Notifications On / Off** setting |
 
 >📜 [Read version history here](CHANGELOG.md)
 
