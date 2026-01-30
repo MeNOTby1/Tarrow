@@ -3,7 +3,7 @@
   <a href="https://github.com/MeNOTby1/Tarrow">🇹🇷 Türkçe</a>
 </p>
 
-
+#(This project is no longer being continued. | Bu proje artık devam edilmemektedir.)
 
 # Tarrow
 
